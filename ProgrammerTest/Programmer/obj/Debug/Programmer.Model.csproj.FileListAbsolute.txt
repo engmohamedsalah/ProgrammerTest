@@ -1,0 +1,7 @@
+E:\Projects\ProgrammerTest\ProgrammerTest\Programmer\obj\Debug\Programmer.Model.csprojResolveAssemblyReference.cache
+E:\Projects\ProgrammerTest\ProgrammerTest\Programmer\bin\Debug\Programmer.Model.dll
+E:\Projects\ProgrammerTest\ProgrammerTest\Programmer\bin\Debug\Programmer.Model.pdb
+E:\Projects\ProgrammerTest\ProgrammerTest\Programmer\bin\Debug\Programmer.DataRepository.dll
+E:\Projects\ProgrammerTest\ProgrammerTest\Programmer\bin\Debug\Programmer.DataRepository.pdb
+E:\Projects\ProgrammerTest\ProgrammerTest\Programmer\obj\Debug\Programmer.Model.dll
+E:\Projects\ProgrammerTest\ProgrammerTest\Programmer\obj\Debug\Programmer.Model.pdb

@@ -1,0 +1,13 @@
+E:\Projects\ProgrammerTest\ProgrammerTest\ProgrammerTest\bin\Debug\ProgrammerTest.dll
+E:\Projects\ProgrammerTest\ProgrammerTest\ProgrammerTest\bin\Debug\ProgrammerTest.pdb
+E:\Projects\ProgrammerTest\ProgrammerTest\ProgrammerTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\Projects\ProgrammerTest\ProgrammerTest\ProgrammerTest\bin\Debug\nunit.framework.dll
+E:\Projects\ProgrammerTest\ProgrammerTest\ProgrammerTest\bin\Debug\nunit.framework.xml
+E:\Projects\ProgrammerTest\ProgrammerTest\ProgrammerTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+E:\Projects\ProgrammerTest\ProgrammerTest\ProgrammerTest\obj\Debug\Programmer.UnitTest.csprojResolveAssemblyReference.cache
+E:\Projects\ProgrammerTest\ProgrammerTest\ProgrammerTest\obj\Debug\ProgrammerTest.dll
+E:\Projects\ProgrammerTest\ProgrammerTest\ProgrammerTest\obj\Debug\ProgrammerTest.pdb
+E:\Projects\ProgrammerTest\ProgrammerTest\ProgrammerTest\bin\Debug\Programmer.Model.dll
+E:\Projects\ProgrammerTest\ProgrammerTest\ProgrammerTest\bin\Debug\Programmer.DataRepository.dll
+E:\Projects\ProgrammerTest\ProgrammerTest\ProgrammerTest\bin\Debug\Programmer.Model.pdb
+E:\Projects\ProgrammerTest\ProgrammerTest\ProgrammerTest\bin\Debug\Programmer.DataRepository.pdb

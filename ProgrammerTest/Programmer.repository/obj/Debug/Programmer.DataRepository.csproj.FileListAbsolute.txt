@@ -1,0 +1,4 @@
+E:\Projects\ProgrammerTest\ProgrammerTest\Programmer.repository\bin\Debug\Programmer.DataRepository.dll
+E:\Projects\ProgrammerTest\ProgrammerTest\Programmer.repository\bin\Debug\Programmer.DataRepository.pdb
+E:\Projects\ProgrammerTest\ProgrammerTest\Programmer.repository\obj\Debug\Programmer.DataRepository.dll
+E:\Projects\ProgrammerTest\ProgrammerTest\Programmer.repository\obj\Debug\Programmer.DataRepository.pdb
